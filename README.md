@@ -30,7 +30,7 @@ Git clone the repository using the following command:
 
 ## Mortal Kombat 3
 
-![MortalKombatVid](Mortal Kombat/assets/MortalKombat.mp4)
+![MortalKombatVid](MortalKombat/assets/MortalKombat.mp4)
 
 1. Go to the roms directory ```./Mortal Kombat/roms``` and place the game rom in the directory (of a file type supported by gym-retro package)
 
